@@ -1,7 +1,7 @@
 cls
 git add .
 
-git commit -m "Uploading the source code"
+git commit -m "fix readme"
 
 
 echo Enviando dados para o bitbucket
